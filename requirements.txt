@@ -1,0 +1,7 @@
+pydantic
+pydantic-settings
+pydantic-ai
+gradio
+python-dotenv
+ddgs
+httpx
